@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1073580294307",
+    "project_id": "concheck-84dc3",
+    "storage_bucket": "concheck-84dc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073580294307:android:fa7786bb425c3ad16d7f16",
+        "android_client_info": {
+          "package_name": "com.example.concheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073580294307-e2gqc79efmsd1jkeioqu13lsvr9d1sl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaFgENYfUYnz-06vt8OzIVRgIq4UTdYv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073580294307-e2gqc79efmsd1jkeioqu13lsvr9d1sl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

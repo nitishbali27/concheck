@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ConCheck</string>
+    <string name="colors_matched_0">Colors Matched: 0</string>
+</resources>
